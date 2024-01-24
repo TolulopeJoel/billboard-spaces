@@ -1,7 +1,0 @@
-{
-    "python.terminal.activateEnvInCurrentTerminal": false,
-    "python.terminal.activateEnvironment": true,
-    "python.experiments.optOutFrom": [
-        "pythonTerminalEnvVarActivation"
-    ],
-}
