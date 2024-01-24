@@ -1,0 +1,60 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.wordBasedSuggestions": "off",
+        "editor.formatOnType": true
+    },
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "editor.fontSize": 18,
+    "workbench.editorAssociations": {
+        "*.sqlite3": "default"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "zenMode.hideLineNumbers": false,
+    "extensions.autoUpdate": false,
+    "update.mode": "manual",
+    "git.decorations.enabled": false,
+    "workbench.editorLargeFileConfirmation": 1,
+    "files.autoSave": "onFocusChange",
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+    "window.autoDetectColorScheme": true,
+    "editor.largeFileOptimizations": false,
+    "editor.renderWhitespace": "all",
+    "gitlens.graph.experimental.minimap.enabled": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "sourcery.token": "user_SU5A9fsM_haZHeu7zFqbrZKND5u_Dn7Fik_GIScZD2W_YEmOivs8cfF8agU",
+    "editor.fontVariations": true,
+    "isort.check": true,
+    "isort.showNotifications": "always",
+    "git.confirmSync": false,
+    "python.terminal.activateEnvInCurrentTerminal": false,
+    "python.terminal.activateEnvironment": true,
+    "python.experiments.optOutFrom": [
+        "pythonTerminalEnvVarActivation"
+    ],
+    "[properties]": {
+        
+        "workbench.editor.languageDetection": true,
+        "outline.showProperties": true,
+    },
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.productIconTheme": "macos-modern",
+    "window.zoomLevel": 1
+}
