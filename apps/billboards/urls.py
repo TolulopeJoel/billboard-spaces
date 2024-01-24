@@ -1,8 +1,7 @@
 from django.urls import path
 
-from .views import BillboardListView, BillboardCreateView
+from .views import BillboardListView
 
 urlpatterns = [
-    path('', BillboardListView.as_view(), name='billboards-list'),
-    path('create/', BillboardCreateView.as_view(), name='billboards-create'),
+    path('', BillboardListView.as_view(), name='billboards-list')
 ]
